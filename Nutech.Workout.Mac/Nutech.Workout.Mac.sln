@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nutech.Workout.Mac.Data", "Nutech.Workout.Mac.Data\Nutech.Workout.Mac.Data.csproj", "{285DC8ED-8FCA-4BF2-AD89-86A1BFA0EC7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nutech.Workout.Mac.Domain", "Nutech.Workout.Mac.Domain\Nutech.Workout.Mac.Domain.csproj", "{202EE012-53B6-4E11-AE15-11A01B013D1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nutech.Workout.Mac.Service", "Nutech.Workout.Mac.Service\Nutech.Workout.Mac.Service.csproj", "{50222852-8104-4467-A398-87CF344CDE85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nutech.Workout.Mac.Test", "Nutech.Workout.Mac.Test\Nutech.Workout.Mac.Test.csproj", "{ADE127A6-A51A-4536-90C0-3E24A669D3D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nutech.Workout.Mac.WebApi", "Nutech.Workout.Mac.WebApi\Nutech.Workout.Mac.WebApi.csproj", "{347FA9C7-1EBC-4E48-963F-9D8C11D69993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{285DC8ED-8FCA-4BF2-AD89-86A1BFA0EC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285DC8ED-8FCA-4BF2-AD89-86A1BFA0EC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285DC8ED-8FCA-4BF2-AD89-86A1BFA0EC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285DC8ED-8FCA-4BF2-AD89-86A1BFA0EC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202EE012-53B6-4E11-AE15-11A01B013D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202EE012-53B6-4E11-AE15-11A01B013D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202EE012-53B6-4E11-AE15-11A01B013D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202EE012-53B6-4E11-AE15-11A01B013D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50222852-8104-4467-A398-87CF344CDE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50222852-8104-4467-A398-87CF344CDE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50222852-8104-4467-A398-87CF344CDE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50222852-8104-4467-A398-87CF344CDE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE127A6-A51A-4536-90C0-3E24A669D3D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE127A6-A51A-4536-90C0-3E24A669D3D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE127A6-A51A-4536-90C0-3E24A669D3D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE127A6-A51A-4536-90C0-3E24A669D3D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347FA9C7-1EBC-4E48-963F-9D8C11D69993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347FA9C7-1EBC-4E48-963F-9D8C11D69993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347FA9C7-1EBC-4E48-963F-9D8C11D69993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347FA9C7-1EBC-4E48-963F-9D8C11D69993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
